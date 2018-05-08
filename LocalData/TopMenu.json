@@ -1,0 +1,86 @@
+{
+  "data": [
+    [{
+      "title" : "美食",
+      "image" : "asset:/images/ms.png"
+    },
+    {
+      "title" : "电影",
+      "image" : "asset:/images/dy.png"
+    },
+    {
+      "title" : "酒店",
+      "image" : "asset:/images/jd.png"
+    },
+    {
+      "title" : "休闲娱乐",
+      "image" : "asset:/images/xxyl.png"
+    },
+    {
+      "title" : "外卖",
+      "image" : "asset:/images/wm.png"
+    },
+    {
+      "title" : "自助餐",
+      "image" : "asset:/images/zzc.png"
+    },
+    {
+      "title" : "KTV",
+      "image" : "asset:/images/ktv.png"
+    },
+    {
+      "title" : "火车票机票",
+      "image" : "asset:/images/hcpjp.png"
+    },
+    {
+      "title" : "丽人",
+      "image" : "asset:/images/lr.png"
+    },
+    {
+        "title" : "周边游",
+        "image" : "asset:/images/zby.png"
+    }
+    ],
+    [
+    {
+      "title" : "足疗按摩",
+      "image" : "asset:/images/zlam.png"
+    },
+    {
+      "title" : "购物",
+      "image" : "asset:/images/gw.png"
+    },
+    {
+      "title" : "今日新单",
+      "image" : "asset:/images/jrxd.png"
+    },
+    {
+      "title" : "小吃快餐",
+      "image" : "asset:/images/xckc.png"
+    },
+    {
+      "title" : "生活服务",
+      "image" : "asset:/images/shfw.png"
+    },
+      {
+        "title" : "甜点饮品",
+        "image" : "asset:/images/tdyp.png"
+      },
+    {
+      "title" : "美甲",
+      "image" : "asset:/images/mj.png"
+    },
+    {
+      "title" : "景点门票",
+      "image" : "asset:/images/jdmp.png"
+    },
+    {
+      "title" : "旅游",
+      "image" : "asset:/images/ly.png"
+    },
+    {
+      "title" : "全部分类",
+      "image" : "asset:/images/qbfl.png"
+    }]
+  ]
+}

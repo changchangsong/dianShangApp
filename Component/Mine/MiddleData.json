@@ -1,0 +1,17 @@
+[{
+    "iconName": "asset:/images/order1.png",
+    "title": "待付款"
+  },
+  {
+    "iconName": "asset:/images/order2.png",
+    "title": "待使用"
+  },
+  {
+    "iconName": "asset:/images/order3.png",
+    "title": "待评价"
+  },
+  {
+    "iconName": "asset:/images/order4.png",
+    "title": "退款/售后"
+  }
+]
